@@ -1,5 +1,5 @@
-baseurl: https://thuphan.rbind.io/
-title: Creative portfolio
+blogbaseurl: https://thuphan.rbind.io/
+title: Thu Phan
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
